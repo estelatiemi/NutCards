@@ -1,4 +1,3 @@
-NutCards
+#NutCards
+##Mão e Mesa
 ========
-
-Código referente ao jogo NutCards - Mão e Mesa
